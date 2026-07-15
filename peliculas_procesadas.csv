@@ -1,0 +1,151 @@
+titulo,genero,calificacion,Clasica,Apreciacion
+The Shawshank Redemption,Drama,9.3,Si,Excelente
+The Godfather,Crimen,9.2,Si,Excelente
+The Dark Knight,Accion,9.0,No,Excelente
+The Godfather Part II,Crimen,9.0,Si,Excelente
+12 Angry Men,Drama,9.0,Si,Excelente
+The Lord of the Rings The Return of the King,Aventura,9.0,No,Excelente
+Schindlers List,Drama,9.0,Si,Excelente
+Pulp Fiction,Crimen,8.9,Si,Excelente
+Pixels,Comedia,5.6,No,Regular
+Norbit,Comedia,4.2,No,Mala
+The Emoji Movie,Animacion,3.4,No,Mala
+The Lord of the Rings The Fellowship of the Ring,Aventura,8.9,No,Excelente
+The Good the Bad and the Ugly,Western,8.8,Si,Excelente
+Forrest Gump,Drama,8.8,Si,Excelente
+Fight Club,Drama,8.8,No,Excelente
+The Lord of the Rings The Two Towers,Aventura,8.8,No,Excelente
+Inception,Ciencia Ficcion,8.8,No,Excelente
+Star Wars Episode V The Empire Strikes Back,Ciencia Ficcion,8.7,Si,Excelente
+The Matrix,Ciencia Ficcion,8.7,No,Excelente
+Goodfellas,Crimen,8.7,Si,Excelente
+One Flew Over the Cuckoos Nest,Drama,8.7,Si,Excelente
+Se7en,Thriller,8.6,No,Excelente
+Interstellar,Ciencia Ficcion,8.7,No,Excelente
+The Silence of the Lambs,Thriller,8.6,Si,Excelente
+Saving Private Ryan,Guerra,8.6,No,Excelente
+City of God,Crimen,8.6,No,Excelente
+The Green Mile,Drama,8.6,No,Excelente
+Life Is Beautiful,Drama,8.6,No,Excelente
+Terminator 2 Judgment Day,Accion,8.6,Si,Excelente
+Back to the Future,Ciencia Ficcion,8.5,Si,Buena
+Spirited Away,Animacion,8.6,No,Excelente
+The Pianist,Drama,8.5,No,Buena
+Parasite,Thriller,8.5,No,Buena
+Gladiator,Accion,8.5,No,Buena
+Whiplash,Drama,8.5,No,Buena
+The Departed,Crimen,8.5,No,Buena
+The Prestige,Drama,8.5,No,Buena
+The Lion King,Animacion,8.5,Si,Buena
+National Treasure,Aventura,6.9,No,Regular
+The Da Vinci Code,Misterio,6.6,No,Regular
+Angels and Demons,Misterio,6.7,No,Regular
+World War Z,Terror,7.0,No,Buena
+I Am Legend,Ciencia Ficcion,7.2,No,Buena
+War of the Worlds,Ciencia Ficcion,6.5,No,Regular
+Oblivion,Ciencia Ficcion,7.0,No,Buena
+Passengers,Ciencia Ficcion,7.0,No,Buena
+Lucy,Ciencia Ficcion,6.4,No,Regular
+Memento,Thriller,8.4,No,Buena
+Apocalypse Now,Guerra,8.4,Si,Buena
+Alien,Ciencia Ficcion,8.4,Si,Buena
+The Shining,Terror,8.4,Si,Buena
+Django Unchained,Western,8.4,No,Buena
+WALL-E,Animacion,8.4,No,Buena
+Avengers Infinity War,Accion,8.4,No,Buena
+Avengers Endgame,Accion,8.4,No,Buena
+Toy Story,Animacion,8.3,No,Buena
+Coco,Animacion,8.4,No,Buena
+Jurassic Park,Aventura,8.2,Si,Buena
+The Truman Show,Drama,8.2,No,Buena
+Mad Max Fury Road,Accion,8.1,No,Buena
+Blade Runner 2049,Ciencia Ficcion,8.0,No,Buena
+The Social Network,Drama,7.8,No,Buena
+Batman Forever,Accion,5.4,No,Regular
+Batman and Robin,Accion,3.8,No,Mala
+The Happening,Thriller,5.0,No,Regular
+After Earth,Ciencia Ficcion,4.8,No,Mala
+The Mummy Returns,Aventura,6.4,No,Regular
+A Quiet Place Part II,Terror,7.2,No,Buena
+The Conjuring,Terror,7.5,No,Buena
+The Conjuring 2,Terror,7.3,No,Buena
+Annabelle,Terror,5.4,No,Regular
+Annabelle Creation,Terror,6.5,No,Regular
+Jurassic World Dominion,Aventura,5.6,No,Regular
+Transformers Revenge of the Fallen,Accion,6.0,No,Regular
+Transformers The Last Knight,Accion,5.2,No,Regular
+Venom,Accion,6.6,No,Regular
+Venom Let There Be Carnage,Accion,5.9,No,Regular
+The Amazing Spider-Man 2,Accion,6.5,No,Regular
+Eternals,Accion,6.3,No,Regular
+Thor The Dark World,Accion,6.7,No,Regular
+The Last Airbender,Aventura,2.5,No,Pesima
+2012,Ciencia Ficcion,5.8,No,Regular
+Moonfall,Ciencia Ficcion,5.1,No,Regular
+The Day After Tomorrow,Ciencia Ficcion,6.5,No,Regular
+Godzilla King of the Monsters,Ciencia Ficcion,6.0,No,Regular
+Pacific Rim,Aventura,6.9,No,Regular
+Uncharted,Aventura,6.3,No,Regular
+The Meg,Aventura,5.7,No,Regular
+San Andreas,Aventura,6.1,No,Regular
+The Tourist,Romance,6.0,No,Regular
+Mission Impossible Ghost Protocol,Accion,7.4,No,Buena
+Mission Impossible Fallout,Accion,7.7,No,Buena
+Spectre,Accion,6.8,No,Regular
+No Time to Die,Accion,7.3,No,Buena
+Valentines Day,Romance,5.7,No,Regular
+Dear John,Romance,6.3,No,Regular
+The Vow,Romance,6.8,No,Regular
+50 Shades of Grey,Romance,3.5,No,Mala
+27 Dresses,Romance,6.1,No,Regular
+Ghost Rider,Accion,5.3,No,Regular
+Fantastic Four,Accion,4.0,No,Mala
+Green Lantern,Accion,5.5,No,Regular
+Morbius,Accion,5.1,No,Regular
+The Expendables 3,Accion,6.1,No,Regular
+Grown Ups,Comedia,6.0,No,Regular
+Paul Blart Mall Cop,Comedia,5.3,No,Regular
+Cars 2,Animacion,6.2,No,Regular
+Hotel Transylvania,Animacion,7.0,No,Buena
+Minions,Animacion,6.4,No,Regular
+Rocky,Drama,8.1,Si,Buena
+Rocky II,Drama,7.3,Si,Buena
+Rocky III,Drama,6.8,Si,Regular
+Rocky IV,Drama,6.9,Si,Regular
+Creed,Drama,7.6,No,Buena
+Creed II,Drama,7.1,No,Buena
+Rambo First Blood,Accion,7.7,Si,Buena
+Rambo First Blood Part II,Accion,6.5,Si,Regular
+Rambo III,Accion,5.8,Si,Regular
+John Wick,Accion,7.5,No,Buena
+John Wick Chapter 2,Accion,7.4,No,Buena
+John Wick Chapter 3 Parabellum,Accion,7.4,No,Buena
+John Wick Chapter 4,Accion,7.7,No,Buena
+Top Gun,Accion,6.9,Si,Regular
+Top Gun Maverick,Accion,8.2,No,Buena
+Mission Impossible,Accion,7.2,No,Buena
+Mission Impossible 2,Accion,6.1,No,Regular
+Mission Impossible III,Accion,6.9,No,Regular
+Casino Royale,Accion,8.0,No,Buena
+Quantum of Solace,Accion,6.6,No,Regular
+Skyfall,Accion,7.8,No,Buena
+Shrek,Animacion,7.9,No,Buena
+Shrek 2,Animacion,7.4,No,Buena
+Shrek the Third,Animacion,6.1,No,Regular
+Shrek Forever After,Animacion,6.3,No,Regular
+Finding Nemo,Animacion,8.2,No,Buena
+Finding Dory,Animacion,7.3,No,Buena
+Monsters Inc,Animacion,8.1,No,Buena
+Monsters University,Animacion,7.2,No,Buena
+Inside Out,Animacion,8.1,No,Buena
+Inside Out 2,Animacion,7.6,No,Buena
+Frozen,Animacion,7.4,No,Buena
+Frozen II,Animacion,6.8,No,Regular
+Brave,Animacion,7.1,No,Buena
+A Quiet Place,Terror,7.5,No,Buena
+Insidious,Terror,6.8,No,Regular
+Insidious Chapter 2,Terror,6.5,No,Regular
+Saw,Terror,7.6,No,Buena
+Saw II,Terror,6.6,No,Regular
+The Ring,Terror,7.1,No,Buena
+The Nun,Terror,5.3,No,Regular
